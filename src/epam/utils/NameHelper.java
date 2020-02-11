@@ -1,4 +1,4 @@
-package utils;
+package epam.utils;
 
 public class NameHelper {
     public volatile int currentIndex = 0;

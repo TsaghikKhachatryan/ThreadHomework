@@ -1,7 +1,7 @@
-package main;
+package epam.main;
 
-import thread.NameThread;
-import utils.NameHelper;
+import epam.thread.NameThread;
+import epam.utils.NameHelper;
 
 public class Main {
 

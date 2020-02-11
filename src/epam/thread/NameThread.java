@@ -1,4 +1,4 @@
-package thread;
+package epam.thread;
 
 import epam.utils.NameHelper;
 
